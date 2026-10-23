@@ -4,6 +4,7 @@ Sprint F2 (SPEC §16): panel admin. `[x]` hecho y probado · `[~]` parcial o dep
 
 ## F2 Panel admin (React + Vite)
 - [x] Scaffold React + Vite + TypeScript (sin la demo de Vite; `npm run build` y `lint` OK)
+- [x] `VITE_API_URL` apunta a la API Java (`:8090`)
 - [ ] Login admin (Supabase Auth) y guardia por rol
 - [ ] Cola de moderación con motivo y riesgo; aprobar / rechazar con motivo
 - [ ] Fundaciones (verificar / rechazar) y plan Gratis/Pro
